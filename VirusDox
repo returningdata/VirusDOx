@@ -1,0 +1,343 @@
+Virus Dox, what real doxing looks like.
+
+Name: Randall Bruce Devoe Jr
+
+Age: 19
+
+DOB: 8/19/00
+
+SSN: 045-02-1075
+
+Gender: Male
+
+Hair: Brown
+
+Eyes: Brown
+
+Height 5’7 (Short Ass Nigga)
+
+Image Of Reject:
+
+Address: 10 Pine Brook Ter Apt 13
+
+City: Bristol
+
+State: Connecticut
+
+Zip: 06010
+
+insta: x_king_virus_of_death_x
+
+————
+
+Dads Info
+
+————
+
+{
+
+"count_person": 3,
+
+"person": [
+
+{
+
+"id": "Person.59d177da-0513-4b98-81f6-168d594dce9d",
+
+"name": "Randy B Devoe Sr.",
+
+"firstname": "Randy",
+
+"middlename": "B",
+
+"lastname": "Devoe",
+
+"alternate_names": [
+
+ 
+
+],
+
+"age_range": "50-54",
+
+"gender": "Male",
+
+"found_at_address": {
+
+"id": "Location.10276b31-dc61-4cac-b58b-321c93b4ab7e",
+
+"location_type": "Address",
+
+"street_line_1": "10 Pine Brook Ter Apt 13",
+
+"street_line_2": null,
+
+"city": "Bristol",
+
+"postal_code": "06010",
+
+"zip4": "7412",
+
+"state_code": "CT",
+
+"country_code": "US",
+
+"lat_long": {
+
+"latitude": 41.65549,
+
+"longitude": -72.91705,
+
+"accuracy": "RoofTop"
+
+},
+
+"is_active": true,
+
+"delivery_point": "MultiUnit",
+
+"link_to_person_start_date": "2008-12-01",
+
+"link_to_person_end_date": null
+
+},
+
+"current_addresses": [
+
+{
+
+"id": "Location.00fd0c9e-5a20-4935-8079-c6deb6b3166d",
+
+"location_type": "Address",
+
+"street_line_1": "13 Wheeler Village Rd",
+
+"street_line_2": null,
+
+"city": "Southington",
+
+"postal_code": "06489",
+
+"zip4": "3737",
+
+"state_code": "CT",
+
+"country_code": "US",
+
+"lat_long": {
+
+"latitude": 41.59631,
+
+"longitude": -72.86629,
+
+"accuracy": "RoofTop"
+
+},
+
+"is_active": true,
+
+"delivery_point": "SingleUnit",
+
+"link_to_person_start_date": "2013-03-25"
+
+}
+
+ 
+
+"id": "Location.10276b31-dc61-4cac-b58b-321c93b4ab7e",
+
+"location_type": "Address",
+
+"street_line_1": "10 Pine Brook Ter Apt 13",
+
+"street_line_2": null,
+
+"city": "Bristol",
+
+"postal_code": "06010",
+
+"zip4": "7412",
+
+"state_code": "CT",
+
+"country_code": "US",
+
+"lat_long": {
+
+"latitude": 41.65549,
+
+"longitude": -72.91705,
+
+"accuracy": "RoofTop"
+
+},
+
+"is_active": true,
+
+"delivery_point": "MultiUnit",
+
+"link_to_person_start_date": "2008-12-01"
+
+}
+
+historical_addresses": [
+
+{
+
+"id": "Location.12c66634-b03c-4732-bf5a-5afe24b80419",
+
+"location_type": "Address",
+
+"street_line_1": "34 Buckley Ave",
+
+"street_line_2": null,
+
+"city": "Bristol",
+
+"postal_code": "06010",
+
+"zip4": "6701",
+
+"state_code": "CT",
+
+"country_code": "US",
+
+"lat_long": {
+
+"latitude": 41.67924,
+
+"longitude": -72.89553,
+
+"accuracy": "RoofTop"
+
+},
+
+"is_active": true,
+
+"delivery_point": "SingleUnit",
+
+"link_to_person_start_date": null,
+
+"link_to_person_end_date": "1997-10-17"
+
+},
+
+ 
+
+{
+
+"id": "Location.c529aced-9044-4453-974e-501c93ecf98f",
+
+"location_type": "Address",
+
+"street_line_1": "95 Constance Ln",
+
+"street_line_2": null,
+
+"city": "Bristol",
+
+"postal_code": "06010",
+
+"zip4": "5592",
+
+"state_code": "CT",
+
+"country_code": "US",
+
+"lat_long": {
+
+"latitude": 41.68675,
+
+"longitude": -72.89161,
+
+"accuracy": "RoofTop"
+
+},
+
+"is_active": true,
+
+"delivery_point": "SingleUnit",
+
+"link_to_person_start_date": "1987-04-01",
+
+"link_to_person_end_date": "2001-08-01"
+
+{
+
+"id": "Location.2c823309-6bf3-49ee-9877-a1414cc89a2e",
+
+"location_type": "Address",
+
+"street_line_1": "300 Washington St",
+
+"street_line_2": null,
+
+"city": "New Britain",
+
+"postal_code": "06051",
+
+"zip4": "4401",
+
+"state_code": "CT",
+
+"country_code": "US",
+
+"lat_long": {
+
+"latitude": 41.67522,
+
+"longitude": -72.7849,
+
+"accuracy": "RoofTop"
+
+},
+
+"is_active": null,
+
+"delivery_point": "MultiUnit",
+
+"link_to_person_start_date": null,
+
+"link_to_person_end_date": "2000-04-01"
+
+},
+
+{
+
+"id": "Location.a83992f8-16e3-4965-a094-456180457d60",
+
+"location_type": "Address",
+
+"street_line_1": "PO Box 2525",
+
+"street_line_2": null,
+
+"city": "Bristol",
+
+"postal_code": "06011",
+
+"zip4": "2525",
+
+"state_code": "CT",
+
+"country_code": "US",
+
+"lat_long": {
+
+"latitude": 41.68155,
+
+"longitude": -72.93114,
+
+"accuracy": "RoofTop"
+
+},
+
+"is_active": true,
+
+"delivery_point": "POBox",
+
+"link_to_person_start_date": "1999-06-08",
+
+
+
+ReturningData
